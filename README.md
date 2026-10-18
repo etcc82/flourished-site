@@ -1,3 +1,3 @@
 # FLOURISHED GAMES
 
-Coming-soon website for FLOURISHED GAMES and Hollow Earth, served at https://flourished.uk
+Holding page for FLOURISHED GAMES, served at https://flourished.uk
